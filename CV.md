@@ -54,12 +54,6 @@ Git | GitHub | Java Swing | SQL | H2 Database | MySQL
 
 ---
 
-## Mock Interview
-
-[Watch Mock Interview Video](YOUR-GOOGLE-DRIVE-LINK-HERE)
-
----
-
 ## References
 
 Available upon request through:
