@@ -117,12 +117,6 @@ Third-year Applications Development student specializing in Java desktop applica
 
 ---
 
-<h2 style="text-align:center">Mock Interview</h2>
-
-<p style="text-align:center"><a href="./FinalMockinterview.mp4">Watch Mock Interview Video</a></p>
-
----
-
 <h2 style="text-align:center">References</h2>
 
 Available upon request through:
