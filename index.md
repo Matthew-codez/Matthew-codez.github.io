@@ -50,6 +50,7 @@ Third-year Applications Development student specializing in Java desktop applica
 <p style="text-align:center">Git | GitHub | Java Swing | SQL | H2 Database | MySQL</p>
 
 ---
+<center><h2>References</h2></center>
 
 Available upon request through:
 
@@ -64,8 +65,6 @@ Email: ctsservicedesk@cput.ac.za
 ---
 
 <center><h2>Mock Interview Video</h2></center>
-<center>[Watch Mock Interview Video](https://drive.google.com/file/d/13OyihKPL2krV7WA-2vUSpcV1AtIHfc_S/view?usp=sharing)</center>
+<center><video width="600" controls src="FinalMockinterview.mp4">
+</video></center>
 
-<center><h2>References</h2></center>
-
----
